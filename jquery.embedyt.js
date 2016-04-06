@@ -1,7 +1,7 @@
 /*jslint indent: 2 */
 /*!
  * EmbedYt 1.0
- * Author : Parveen Kumar ( http://infoheap.com/ )
+ * Author : http://infoheap.com/
 */
 (function ($) {
   "use strict";
